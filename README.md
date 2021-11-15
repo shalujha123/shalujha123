@@ -2,7 +2,7 @@
 - 👀 I’m interested in coding(Python) and web developing.
 - 🌱 I’m currently exploring myself in my interest.
 - 💞️ I’m looking for the internship.
-- 📫 If Anyone can get me internship plz contact me through insta s_k_jha_123.
+- 📫 Contact me through mail skjhavd9924@gmail.com
 
 <!---
 shalujha123/shalujha123 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
