@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @shalujha123, I am in third year cs branch.
-- 👀 I’m interested in coding(Python) and web developing.
+- 👀 I’m interested in web developing.
 - 🌱 I’m currently exploring myself in my interest.
 - 💞️ I’m looking for the internship.
 - 📫 Contact me through mail skjhavd9924@gmail.com
